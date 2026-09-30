@@ -165,11 +165,11 @@ GoodBye...
 ```
 
 │
+├── README.md
+│
 ├── main.py
 │
-├── output.png
-│
-└── README.md
+└── output.png
     
 ```
 
