@@ -7,7 +7,7 @@ A Python OOP-based Employee Management System for creating and managing Persons,
 # Features
 
 - Create a Person
-- Create an Employee
+- Create a Employee
 - Create a Manager
 - Display Person details
 - Display Employee details
@@ -17,7 +17,6 @@ A Python OOP-based Employee Management System for creating and managing Persons,
 - Manager department management
 - Demonstrates class inheritance
 - Demonstrates parent-child class relationships
-- Menu-driven console application
 - Checks whether Employee and Manager classes are subclasses of Person and Employee
 
 ---
